@@ -1,0 +1,9 @@
+push 2.0
+push 5.0
+sub
+jmp leave
+push 3.0
+pop m0
+push 2.0
+label leave
+exit

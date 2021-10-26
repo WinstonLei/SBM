@@ -1,0 +1,5 @@
+push 5.0
+push 5.0
+div
+pop m9
+exit

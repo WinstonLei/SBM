@@ -1,0 +1,4 @@
+push 5
+pop m0
+jmp notHere
+exit

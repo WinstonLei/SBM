@@ -1,0 +1,7 @@
+push 4.0
+push 2.0
+pop m8
+pop m7
+push m8
+push m7
+exit
